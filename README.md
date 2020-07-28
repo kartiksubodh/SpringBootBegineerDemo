@@ -21,3 +21,8 @@ Followings are the links
 /books/bookName (Delete): Deletes Given BookName
 
 This is a basic implementation learned from JavaBrains Tutorial List on Youtube. 
+
+
+To run:
+
+Import existing maven project from your file tab in eclipse/ similar approach in other IDE's.
